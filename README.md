@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/Akil-Hub/Akil-Hub/main/githubBanner.png" alt="banner" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akil-hub" alt="akil-hub" /></a> </p>
 
 - 🔭 I’m currently working on [Oribie E-Commerce Website](https://oribie-e-commerce-website.vercel.app/)
 
