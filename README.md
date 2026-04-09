@@ -34,7 +34,7 @@
 
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
-</div>
+
 
 #### 🛠 Frontend Configuration (JSON)
 ```json
@@ -72,7 +72,7 @@
 </p>
 
 ---
-
+</div>
 
 
 
