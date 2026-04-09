@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Akil Anjum Mahi</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 
@@ -30,11 +28,11 @@
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
 
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
-
+</div>
 
 #### 🛠 Frontend Configuration (JSON)
 ```json
@@ -46,34 +44,3 @@
     "build_tools": ["Vite", "Webpack"]
   }
 }
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akilanjumdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdmahi2345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/akilanjum23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/1400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- icons here, unchanged from your current README -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Akil-Hub/Akil-Hub/blob/main/gitHubFoooterImage2.png" alt="Footer Banner">
-</p>
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <strong>🚀 MERN Stack | React | Next.js | Node.js | Express | MongoDB | TailwindCSS | Frontend Developer 💻 | Let’s Build Something Amazing! 🌟</strong>
-  </marquee>
-</p>
-
----
-</div>
-
-
-
-
