@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akil Anjum Mahi</h1>
-<h3 align="center">A passionate MERN Developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akil-Hub/Akil-Hub/main/githubBanner.png" alt="banner" />
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I'm a MERN stack developer passionate about building scalable and modern web apps. I turn ideas into functional, responsive, and user-friendly interfaces. Constantly exploring new technologies to deliver high-quality solutions and clean code.
+  I'm a professional  Web developer passionate about building scalable and modern web apps. I turn ideas into functional, responsive, and user-friendly interfaces. Constantly exploring new technologies to deliver high-quality solutions and clean code.
 </p>
 
 ---
