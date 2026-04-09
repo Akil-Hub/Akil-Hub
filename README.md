@@ -32,10 +32,12 @@
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
-
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
 </div>
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/akilanjumdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://facebook.com/mdmahi2345" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a> <a href="https://instagram.com/akilanjum23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a> <a href="https://www.topcoder.com/members/1400" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" width="40" /></a> </p>
+---
+<p align="center"> <img src="https://raw.githubusercontent.com/Akil-Hub/Akil-Hub/main/gitHubFoooterImage2.png" alt="Footer Banner"> </p> <p align="center"> <strong>🚀 MERN Stack | React | Next.js | Node.js | Express | MongoDB | TailwindCSS | Frontend Developer 💻 | Let's Build Something Amazing! 🌟</strong> </p> <p align="center"> <a href="https://github.com/Akil-Hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-Akil_Hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:akilanjummahi@gmail.com"><img src="https://img.shields.io/badge/Email-akilanjummahi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/akilanjumdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Akil_AnjumMahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
 #### 🛠 Frontend Configuration (JSON)
 ```json
 {
@@ -46,5 +48,3 @@
     "build_tools": ["Vite", "Webpack"]
   }
 }
-
----
