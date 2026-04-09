@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akil Anjum Mahi</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://canva.link/v0ny53tu975m7yx" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akil-Hub/Akil-Hub/main/githubBanner.png" alt="banner" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akil-hub" alt="akil-hub" /></a> </p>
 
