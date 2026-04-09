@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  I'm a MERN stack developer with a passion for building scalable and modern web applications. I love turning ideas into functional, clean, and responsive web apps. Constantly exploring new technologies to improve my skills and deliver high-quality solutions.
+  I'm a MERN stack developer passionate about building scalable and modern web apps. I turn ideas into functional, responsive, and user-friendly interfaces. Constantly exploring new technologies to deliver high-quality solutions and clean code.
 </p>
 
 ---
 
 - 🔭 I’m currently working on [Oribie E-Commerce Website](https://oribie-e-commerce-website.vercel.app/)
-- 🌱 I’m currently learning **Next.js ,Express.js**
+- 🌱 I’m currently learning **Next.js, Express.js**
 - 🤝 I’m looking for help with **E-Commerce Website**
 - 📝 I regularly write articles on [Web Development Technology](Web Development Technology)
 - 💬 Ask me about **React, JavaScript, any Frontend Technology**
@@ -48,11 +48,17 @@
 
 ---
 
-<h3 align="center">💻 My Skills (Code Style)</h3>
+<h3 align="center">💻 My Frontend Skills</h3>
 ```json
 {
-  "Frontend": ["React", "Next.js", "HTML5", "CSS3", "Bootstrap", "TailwindCSS", "JavaScript", "TypeScript"],
-  "Backend": ["Node.js", "Express.js", "Firebase"],
-  "Database": ["MongoDB", "MySQL"],
-  "Design & Tools": ["Figma", "Adobe Illustrator", "Photoshop", "Postman", "Git", "VS Code"]
+  "Frontend": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Bootstrap",
+    "TailwindCSS"
+  ]
 }
