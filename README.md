@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akil-Hub/Akil-Hub/main/githubBanner.png" alt="banner" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I+am+Akil+Anjum+Mahi+%F0%9F%91%A5;Frontend+Developer+%F0%9F%92%BB;Building+modern+web+experiences+%F0%9F%9A%80;Clean+Code+%26+Scalable+Apps+%F0%9F%92%A1" />
 </p>
@@ -14,13 +15,15 @@
 
 ---
 
-- 🔭 I’m currently working on [Oribie E-Commerce Website](https://oribie-e-commerce-website.vercel.app/)
-- 🌱 I’m currently learning **Next.js, Express.js**
-- 🤝 I’m looking for help with **E-Commerce Website**
-- 📝 I regularly write articles on [Web Development Technology](Web Development Technology)
-- 💬 Ask me about **React, JavaScript, any Frontend Technology**
-- 📫 How to reach me **akilanjummahi@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cia72Vedebb2D-DRQecfygm-6gPy5PYs/view?usp=sharing)
+- 🔭 I’m currently working on [Oribie E-Commerce Website](https://oribie-e-commerce-website.vercel.app/)  
+- 🌱 I’m currently learning **Next.js, Express.js**  
+- 🤝 I’m looking for help with **E-Commerce Website**  
+- 📝 I regularly write articles on [Web Development Technology](Web Development Technology)  
+- 💬 Ask me about **React, JavaScript, any Frontend Technology**  
+- 📫 How to reach me **akilanjummahi@gmail.com**  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cia72Vedebb2D-DRQecfygm-6gPy5PYs/view?usp=sharing)  
+
+---
 
 ### 💻 Technical Expertise
 
@@ -28,11 +31,12 @@
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
 
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 </div>
+
+---
 
 #### 🛠 Frontend Configuration (JSON)
 ```json
