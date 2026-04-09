@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Akil-Hub/Akil-Hub/main/githubBanner.png" alt="banner" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Akil+Anjum+Mahi;Professional Frontend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋;Akil+Anjum+Mahi;Frontend+Developer;Building+modern+web+experiences" />
 </p>
 
 
