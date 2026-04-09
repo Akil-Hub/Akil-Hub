@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://github.com/Akil-Hub/Akil-Hub/blob/main/gitHubFoooterImage2.png" alt="Footer Banner">
 </p>
-
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
     <strong>🚀 MERN Stack | React | Next.js | Node.js | Express | MongoDB | TailwindCSS | Frontend Developer 💻 | Let’s Build Something Amazing! 🌟</strong>
