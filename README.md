@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akil-Hub/Akil-Hub/main/githubBanner.png" alt="banner" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Akil+Anjum+Mahi;Frontend+Developer" />
+</p>
 
 
 - 🔭 I’m currently working on [Oribie E-Commerce Website](https://oribie-e-commerce-website.vercel.app/)
