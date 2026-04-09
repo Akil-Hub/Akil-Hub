@@ -5,8 +5,9 @@
   <img src="https://raw.githubusercontent.com/Akil-Hub/Akil-Hub/main/githubBanner.png" alt="banner" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi There +👋;I am Akil+Anjum+Mahi;Frontend+Developer;Building+modern+web+experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I+am+Akil+Anjum+Mahi+%F0%9F%91%A5;Frontend+Developer+%F0%9F%92%BB;Building+modern+web+experiences+%F0%9F%9A%80;Clean+Code+%26+Scalable+Apps+%F0%9F%92%A1" />
 </p>
+
 
 
 - 🔭 I’m currently working on [Oribie E-Commerce Website](https://oribie-e-commerce-website.vercel.app/)
